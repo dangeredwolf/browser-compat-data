@@ -69,7 +69,7 @@
         "81": {
           "release_date": "2020-01-17",
           "release_notes": "https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-81-0-410-1-is-live/m-p/1153318",
-          "status": "dev",
+          "status": "beta",
           "engine": "Blink",
           "engine_version": "81"
         }
